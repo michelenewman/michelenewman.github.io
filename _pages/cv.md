@@ -47,7 +47,7 @@ Other Writing
 
 In the News
 ======
-McQuate, S. (2023, May 31). UW researcher discusses the buzz behind “legend of zelda: Tears of the kingdom.” UW News. https://www.washington.edu/news/2023/05/31/uw-researcher-discusses-the-buzz-behind-legend-of-zelda-tears-of-the-kingdom/ 
+McQuate, S. (2023, May 31). UW researcher discusses the buzz behind “Legend of Zelda: Tears of the kingdom.” UW News. https://www.washington.edu/news/2023/05/31/uw-researcher-discusses-the-buzz-behind-legend-of-zelda-tears-of-the-kingdom/ 
 
 Teaching
 ======
@@ -56,10 +56,10 @@ Teaching
 	* Winter 2023: INFO 380: Information Systems Analysis and Design
 
 * Graduate Associate Instructor, Indiana University, Bloomington, IN
-  * MUS – T 109: Fundamentals of Music
-  * MUS – T 123: Musical Skills I
-  * MUS – T 151: Musical Theory and Literature I
-  * MUS – T 152: Musical Theory and Literature II
+  * Fall 2017: MUS – T 109: Fundamentals of Music
+  * Spring 2018: MUS – T 123: Musical Skills I
+  * Fall 2019: MUS – T 151: Musical Theory and Literature I
+  * Spring 2019: MUS – T 152: Musical Theory and Literature II
 
 * Teaching Assistant (Grader), University of North Texas, Denton, TX
   * Fall 2016: MUTH 1400: Theory I
@@ -72,26 +72,26 @@ Teaching
   
 Service and Leadership
 ======
-* 2022-Present: Senator, Graduate and Professional Student Senate
+* 2022-Present: **Senator**, Graduate and Professional Student Senate
 	University of Washington, Seattle, WA
-* 2021 – 2022: President and Founder, Accessibility Advocacy Group at the Morgridge College of Education, Denver, CO
-* 2021 – 2022: President, Society of American Archivists University of Denver Student Chapter, Denver, CO
-* Spring 2021: Committee Member, RMLIS Student Conference, University of Denver, Department of Library and Information Science, Denver, CO
-* 2020 – 2022: Secretary, Association for Information Science and Technology University of Denver Student Chapter, Denver, CO	
-* 2017 – 2019: Events Coordinator, Indiana University Graduate Theory Association, Bloomington, IN	
-* 2017 – 2019: Graphics Editor, Indiana Theory Review, Indiana University, Department of Music Theory, Bloomington, IN 
-* 2016 – 2017: Student Advisor, Undergraduate Curriculum Committee, University of North Texas, College of Music, Denton, TX
-* 2015 – 2017: Vice-President, University of North Texas Composers Forum, Denton, TX	
+* 2021 – 2022: **President and Founder**, Accessibility Advocacy Group at the Morgridge College of Education, Denver, CO
+* 2021 – 2022: **President**, Society of American Archivists University of Denver Student Chapter, Denver, CO
+* Spring 2021, Spring 2022: **Committee Member**, RMLIS Student Conference, University of Denver, Department of Library and Information Science, Denver, CO
+* 2020 – 2022: **Secretary**, Association for Information Science and Technology University of Denver Student Chapter, Denver, CO	
+* 2017 – 2019: **Events Coordinator**, Indiana University Graduate Theory Association, Bloomington, IN
+* 2017 – 2019: **Graphics Editor**, Indiana Theory Review, Indiana University, Department of Music Theory, Bloomington, IN 
+* 2016 – 2017: **Student Advisor**, Undergraduate Curriculum Committee, University of North Texas, College of Music, Denton, TX
+* 2015 – 2017: **Vice-President**, University of North Texas Composers Forum, Denton, TX	
 
 Honors and Awards
 ======
-* Fall 2016	Beta Phi Mu Library & Information Science and Information Technology Honor Society	
+* Fall 2016:	Beta Phi Mu Library & Information Science and Information Technology Honor Society	
 * Spring 2021	Student Leadership Award
   * Awarded by: College of Education Student Association, University of Denver
-* Fall 2018	Outstanding Student in Composition
+* Fall 2018:	Outstanding Student in Composition
   * Awarded by: College of Music, University of North Texas
-* 2016 – 2017	University of North Texas Undergraduate Research Fellowship
+* 2016 – 2017:	University of North Texas Undergraduate Research Fellowship
   * Award Amount: $500 
   * Awarded by: University of North Texas Honors College
-* Fall 2016	Pi Kappa Lambda National Music Honor Society	
+* Fall 2016:	Pi Kappa Lambda National Music Honor Society	
 
