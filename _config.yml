@@ -11,7 +11,7 @@ title                    : "Michele Newman"
 title_separator          : "-"
 name                     : &name "Michele"
 description              : &description "PhD Student at the University of Washington iSchool"
-url                      :  michelenewman.github.io
+url                      :  "https://michelenewman.github.io/"
  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michelenewman/michelenewman.github.io"
