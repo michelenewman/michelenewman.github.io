@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.Mus. Double Major in Music Composition and Music Theory, University of North Texas, 2017
-* M.Mus. in Music Theory, Indiana University - Bloomington, 2019
-* M.L.I.S, University of Denver, 2022
 * Ph.D in Information Science, University of Washington (Present)
+* M.L.I.S, University of Denver, 2022
+* M.Mus. in Music Theory, Indiana University - Bloomington, 2019
+* B.Mus. Double Major in Music Composition and Music Theory, University of North Texas, 2017
 
 Research Experience
 ======
