@@ -40,29 +40,14 @@ Denver Public Libraries
 
 * August 2020 - June 2022: Instructional Design Assistant
   * University of Denver
-
-Publications
-======
-Organisciak, P., **Newman, M.**, Eby, D., Acar, S. and Dumas, D. (2023), "How do the kids speak? Improving educational use of text mining with child-directed language models", Information and Learning Sciences, Vol. 124 No. 1/2, pp. 25-47. https://doi.org/10.1108/ILS-06-2022-0082 
-
-Dumas, D., Acar, S., Berthiaume, K., Organisciak, P., Eby, D., Grajzel, K., Flemister, T., **Newman, M.**, & Carrera, M. (In press, 2023). What makes children’s responses to creativity assessments difficult to judge reliably? Journal of Creative Behavior. 
-  
-Conference Papers
-======
-**Newman, M.**  and Lee J. H. (2023). “Accidental Archivists:”. Presentation at the Digital Games Research Association Conference. Seville, Spain.
-***Presenter*** 
-
-Cho, Y., **Newman, M.**, Morris, L., Koughan, L. D., Yip, J., and Lee, J. H. (2023). Gender Differences in Ethical Stances for Playing AR Games: The Case of Pokémon GO. Presentation at the Digital Games Research Association Conference. Seville, Spain. 
-
-**Newman, M.** (2021). “Scoring Diversity:” Engaging with Diverse Composers in Academic Music Libraries. Presentation at the Mountain-Plaines Chapter Music Library Association Annual Conference. Online. 
-***Presenter***
-
-**Newman, M.** (2021). A Gamers Guide to Metadata. Presentation at the Morgridge College of Education Research Methods and Information Science Student Conference. Online.
-***Presenter***  
   
 Other Writing
 ======
 **Newman, M.** (2021, August 3). Webinar Recap: International Research in LIS. The Librarian Parlor. https://libparlor.com/2021/08/03/webinar-recap-international-research-in-lis/
+
+In the News
+======
+McQuate, S. (2023, May 31). UW researcher discusses the buzz behind “legend of zelda: Tears of the kingdom.” UW News. https://www.washington.edu/news/2023/05/31/uw-researcher-discusses-the-buzz-behind-legend-of-zelda-tears-of-the-kingdom/ 
 
 Teaching
 ======
