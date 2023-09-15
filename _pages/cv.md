@@ -19,17 +19,18 @@ Education
 Research Experience
 ======
 * January 2023 - Present: Graduate Research Assistant
-  * Misinformaiton in Libraries, Univeristy of Washington
-  * Funded: Funding Organization: Institute of Museum and Library Services
+  * Misinformation in Libraries, University of Washington
+  * Funding Organization: Institute of Museum and Library Services
   * Supervisor: Dr. Jason Yip
 
 * September 2020 - June 2022: Graduate Research Assistant
   * Measurement of Original Thinking in Elementary Students, University of Denver
+  * Funding Organization: Institute of Education Sciences
   * Supervisor: Dr. Peter Organisciak
   
 * Spring 2017: Undergraduate Research Fellow
-  * University of North Texas Honors College, University of North Texas
-  * Project Title: Metric Dissonance in Asymmetric Meters
+  * Metric Dissonance in Asymmetric Meters
+  * Funding Organization: University of North Texas Honors College, University of North Texas
   * Supervisor: Dr. Diego Cubero
 
 Professional Experience
@@ -52,6 +53,7 @@ McQuate, S. (2023, May 31). UW researcher discusses the buzz behind “Legend of
 Teaching
 ======
 * Graduate Teaching Assistant, University of Washington, Seattle, WA
+	* Fall 2023: LIS 570: Participatory Design in Libraries
 	* Fall 2022: INFO 360: Design Thinking
 	* Winter 2023: INFO 380: Information Systems Analysis and Design
 
