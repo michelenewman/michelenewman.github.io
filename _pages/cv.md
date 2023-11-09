@@ -54,8 +54,8 @@ Teaching
 ======
 * Graduate Teaching Assistant, University of Washington, Seattle, WA
 	* Fall 2023: LIS 570: Participatory Design in Libraries
-	* Fall 2022: INFO 360: Design Thinking
 	* Winter 2023: INFO 380: Information Systems Analysis and Design
+	* Fall 2022: INFO 360: Design Thinking
 
 * Graduate Associate Instructor, Indiana University, Bloomington, IN
   * Fall 2017: MUS – T 109: Fundamentals of Music
@@ -87,7 +87,7 @@ Service and Leadership
 
 Honors and Awards
 ======
-* Fall 2016:	Beta Phi Mu Library & Information Science and Information Technology Honor Society	
+* Fall 2022:	Beta Phi Mu Library & Information Science and Information Technology Honor Society
 * Spring 2021	Student Leadership Award
   * Awarded by: College of Education Student Association, University of Denver
 * Fall 2018:	Outstanding Student in Composition
