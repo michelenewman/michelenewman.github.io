@@ -16,7 +16,7 @@ Organisciak, P., **Newman, M.**, Eby, D., Acar, S. and Dumas, D. (2023), "How do
 
 **Newman, M.** Morris, L., and Lee J. H. (2023). Human-AI music creation: Understanding the perceptions and experiences of music creators for ethical and productive collaboration. *Proceedings of the 24th International Society for Music Information Retrieval Conference.* [\[PDF\]](https://michelenewman.github.io/files/Newman_HumanAI_Music_2023)
 
-Cho, Y., **Newman, M.**, Morris, L., Koughan, L. D., Yip, J., and Lee, J. H. (2023). Gender differences in ethical stances for playing AR games: The case of Pokémon GO. *Proceedings of the 2023 Digital Games Research Association International Conference: The Limits and Margins of Games Conference.* [\[PDF\]](https://michelenewman.github.io/files/Cho_GenderDifferences_2023)]
+Cho, Y., **Newman, M.**, Morris, L., Koughan, L. D., Yip, J., and Lee, J. H. (2023). Gender differences in ethical stances for playing AR games: The case of Pokémon GO. *Proceedings of the 2023 Digital Games Research Association International Conference: The Limits and Margins of Games Conference.* [\[PDF\]](https://michelenewman.github.io/files/Cho_GenderDifferences_2023)
 
 ## Extended Abstracts (Refereed)
 
