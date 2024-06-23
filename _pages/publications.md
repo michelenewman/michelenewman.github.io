@@ -4,13 +4,17 @@ title: "Publications"
 permalink: publications/
 author_profile: true
 ---
+(\*) denotes equal contribution.
+
 ## Peer Reviewed Journals
 
-Dumas, D., Acar, S., Berthiaume, K., Organisciak, P., Eby, D., Grajzel, K., Vlaamster, T., **Newman, M.**, & Carrera, M. (2023). What Makes Children’s Responses to Creativity Assessments Difficult to Judge Reliably? The Journal of Creative Behavior, 57(3), 419–438. https://doi.org/10.1002/jocb.588 [\[LINK\]](https://doi.org/10.1002/jocb.588)
+Dumas, D., Acar, S., Berthiaume, K., Organisciak, P., Eby, D., Grajzel, K., Vlaamster, T., **Newman, M.**, & Carrera, M. (2023). What Makes Children’s Responses to Creativity Assessments Difficult to Judge Reliably? *The Journal of Creative Behavior, 57*(3), 419–438. https://doi.org/10.1002/jocb.588 [\[LINK\]](https://doi.org/10.1002/jocb.588)
 
-Organisciak, P., **Newman, M.**, Eby, D., Acar, S. and Dumas, D. (2023), "How do the kids speak? Improving educational use of text mining with child-directed language models", Information and Learning Sciences, Vol. 124 No. 1/2, pp. 25-47. https://doi.org/10.1108/ILS-06-2022-0082 [\[LINK\]](https://doi.org/10.1108/ILS-06-2022-0082)
+Organisciak, P., **Newman, M.**, Eby, D., Acar, S. and Dumas, D. (2023), How do the kids speak? Improving educational use of text mining with child-directed language models. *Information and Learning Sciences, 124*(1/2), 25-47. https://doi.org/10.1108/ILS-06-2022-0082 [\[LINK\]](https://doi.org/10.1108/ILS-06-2022-0082)
 
 ## Published Conference Proceedings (Refereed)
+
+Dangol, A.\*, **Newman, M.**\*, Wolfe, R., Lee, J.H., Kientz, J., Yip, J.C., & Pitt, C. (2024). Mediating culture: Cultivating socio-cultural understanding of AI in children through participatory design. *Proceedings of ACM Designing Interactive Systems.* 
 
 **Newman, M.**, Sun, K., Gasperina, I.D., Pedraja, M., Kanchi, R., Song, M.B., Li, R., Lee, J.H., & Yip, J.C. (2024). “I want it to talk like Darth Vader”: Helping children construct creative self-efficacy with generative AI. *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems*. **Best Paper Honorable Mention (selected as top 5% of submissions)** [\[PDF\]](https://michelenewman.github.io/files/Newman_CreativeGenAI_2024.pdf)
 
